@@ -15,3 +15,5 @@
 ---
 
 **That’s it!** You now have a comprehensive overview of all the GUI options and how to use them.
+
+Disclaimer: this was originally developed for personal use, created using AI assistance, and licensed under the GPL-3.0 license.
